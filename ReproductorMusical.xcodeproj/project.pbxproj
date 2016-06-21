@@ -7,21 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49172B781D18A6CB00E154CE /* Reproductor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49172B771D18A6CB00E154CE /* Reproductor.swift */; };
+		49172B811D19D57700E154CE /* Mr.Roboto Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49172B791D19D57100E154CE /* Mr.Roboto Cover.jpg */; };
+		49172B821D19D57700E154CE /* Mr.Roboto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7A1D19D57300E154CE /* Mr.Roboto.mp3 */; };
+		49172B831D19D57700E154CE /* Strangers In The Night Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7B1D19D57300E154CE /* Strangers In The Night Cover.jpg */; };
+		49172B841D19D57700E154CE /* Strangers In The Night.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7C1D19D57300E154CE /* Strangers In The Night.mp3 */; };
+		49172B851D19D57700E154CE /* Suicide Mission Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7D1D19D57300E154CE /* Suicide Mission Cover.jpg */; };
+		49172B861D19D57700E154CE /* Suicide Mission.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7E1D19D57300E154CE /* Suicide Mission.mp3 */; };
+		49172B871D19D57700E154CE /* What I Got Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49172B7F1D19D57300E154CE /* What I Got Cover.jpg */; };
+		49172B881D19D57700E154CE /* What I Got.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49172B801D19D57300E154CE /* What I Got.mp3 */; };
+		49172B8B1D19D7D400E154CE /* Highway to the Danger Zone Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49172B891D19D7D400E154CE /* Highway to the Danger Zone Cover.jpg */; };
+		49172B8C1D19D7D400E154CE /* Highway to the Danger Zone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49172B8A1D19D7D400E154CE /* Highway to the Danger Zone.mp3 */; };
 		491BA25E1D188FD000893553 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491BA25D1D188FD000893553 /* AppDelegate.swift */; };
-		491BA2601D188FD000893553 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491BA25F1D188FD000893553 /* ViewController.swift */; };
 		491BA2631D188FD000893553 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2611D188FD000893553 /* Main.storyboard */; };
 		491BA2651D188FD000893553 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2641D188FD000893553 /* Assets.xcassets */; };
 		491BA2681D188FD000893553 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2661D188FD000893553 /* LaunchScreen.storyboard */; };
+		491BA2701D1890C900893553 /* ListaCanciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491BA26F1D1890C900893553 /* ListaCanciones.swift */; };
+		491BA27B1D18911E00893553 /* Canon In D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2711D18911E00893553 /* Canon In D.mp3 */; };
+		491BA27C1D18911E00893553 /* Power.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2721D18911E00893553 /* Power.mp3 */; };
+		491BA27D1D18911E00893553 /* Symphony Of Destruction.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2731D18911E00893553 /* Symphony Of Destruction.mp3 */; };
+		491BA27E1D18911E00893553 /* Everybody Wants to Rule the World.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2741D18911E00893553 /* Everybody Wants to Rule the World.mp3 */; };
+		491BA27F1D18911E00893553 /* Symphony Of Destruction Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2751D18911E00893553 /* Symphony Of Destruction Cover.jpg */; };
+		491BA2801D18911E00893553 /* Working For The Weekend Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2761D18911E00893553 /* Working For The Weekend Cover.jpg */; };
+		491BA2811D18911E00893553 /* Canon In D Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2771D18911E00893553 /* Canon In D Cover.jpg */; };
+		491BA2821D18911E00893553 /* Power Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2781D18911E00893553 /* Power Cover.jpg */; };
+		491BA2831D18911E00893553 /* Everybody Wants to Rule the World Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 491BA2791D18911E00893553 /* Everybody Wants to Rule the World Cover.jpg */; };
+		491BA2841D18911E00893553 /* Working For The Weekend.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491BA27A1D18911E00893553 /* Working For The Weekend.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49172B771D18A6CB00E154CE /* Reproductor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reproductor.swift; sourceTree = "<group>"; };
+		49172B791D19D57100E154CE /* Mr.Roboto Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mr.Roboto Cover.jpg"; sourceTree = "<group>"; };
+		49172B7A1D19D57300E154CE /* Mr.Roboto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mr.Roboto.mp3; sourceTree = "<group>"; };
+		49172B7B1D19D57300E154CE /* Strangers In The Night Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Strangers In The Night Cover.jpg"; sourceTree = "<group>"; };
+		49172B7C1D19D57300E154CE /* Strangers In The Night.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Strangers In The Night.mp3"; sourceTree = "<group>"; };
+		49172B7D1D19D57300E154CE /* Suicide Mission Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Suicide Mission Cover.jpg"; sourceTree = "<group>"; };
+		49172B7E1D19D57300E154CE /* Suicide Mission.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Suicide Mission.mp3"; sourceTree = "<group>"; };
+		49172B7F1D19D57300E154CE /* What I Got Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "What I Got Cover.jpg"; sourceTree = "<group>"; };
+		49172B801D19D57300E154CE /* What I Got.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "What I Got.mp3"; sourceTree = "<group>"; };
+		49172B891D19D7D400E154CE /* Highway to the Danger Zone Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Highway to the Danger Zone Cover.jpg"; sourceTree = "<group>"; };
+		49172B8A1D19D7D400E154CE /* Highway to the Danger Zone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Highway to the Danger Zone.mp3"; sourceTree = "<group>"; };
 		491BA25A1D188FD000893553 /* ReproductorMusical.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReproductorMusical.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		491BA25D1D188FD000893553 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		491BA25F1D188FD000893553 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		491BA2621D188FD000893553 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		491BA2641D188FD000893553 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		491BA2671D188FD000893553 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		491BA2691D188FD000893553 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		491BA26F1D1890C900893553 /* ListaCanciones.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaCanciones.swift; sourceTree = "<group>"; };
+		491BA2711D18911E00893553 /* Canon In D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Canon In D.mp3"; sourceTree = "<group>"; };
+		491BA2721D18911E00893553 /* Power.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Power.mp3; sourceTree = "<group>"; };
+		491BA2731D18911E00893553 /* Symphony Of Destruction.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Symphony Of Destruction.mp3"; sourceTree = "<group>"; };
+		491BA2741D18911E00893553 /* Everybody Wants to Rule the World.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Everybody Wants to Rule the World.mp3"; sourceTree = "<group>"; };
+		491BA2751D18911E00893553 /* Symphony Of Destruction Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Symphony Of Destruction Cover.jpg"; sourceTree = "<group>"; };
+		491BA2761D18911E00893553 /* Working For The Weekend Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Working For The Weekend Cover.jpg"; sourceTree = "<group>"; };
+		491BA2771D18911E00893553 /* Canon In D Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Canon In D Cover.jpg"; sourceTree = "<group>"; };
+		491BA2781D18911E00893553 /* Power Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Power Cover.jpg"; sourceTree = "<group>"; };
+		491BA2791D18911E00893553 /* Everybody Wants to Rule the World Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Everybody Wants to Rule the World Cover.jpg"; sourceTree = "<group>"; };
+		491BA27A1D18911E00893553 /* Working For The Weekend.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Working For The Weekend.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +97,32 @@
 			isa = PBXGroup;
 			children = (
 				491BA25D1D188FD000893553 /* AppDelegate.swift */,
-				491BA25F1D188FD000893553 /* ViewController.swift */,
 				491BA2611D188FD000893553 /* Main.storyboard */,
 				491BA2641D188FD000893553 /* Assets.xcassets */,
 				491BA2661D188FD000893553 /* LaunchScreen.storyboard */,
 				491BA2691D188FD000893553 /* Info.plist */,
+				491BA26F1D1890C900893553 /* ListaCanciones.swift */,
+				49172B771D18A6CB00E154CE /* Reproductor.swift */,
+				49172B891D19D7D400E154CE /* Highway to the Danger Zone Cover.jpg */,
+				49172B8A1D19D7D400E154CE /* Highway to the Danger Zone.mp3 */,
+				49172B791D19D57100E154CE /* Mr.Roboto Cover.jpg */,
+				49172B7A1D19D57300E154CE /* Mr.Roboto.mp3 */,
+				49172B7B1D19D57300E154CE /* Strangers In The Night Cover.jpg */,
+				49172B7C1D19D57300E154CE /* Strangers In The Night.mp3 */,
+				49172B7D1D19D57300E154CE /* Suicide Mission Cover.jpg */,
+				49172B7E1D19D57300E154CE /* Suicide Mission.mp3 */,
+				49172B7F1D19D57300E154CE /* What I Got Cover.jpg */,
+				49172B801D19D57300E154CE /* What I Got.mp3 */,
+				491BA2711D18911E00893553 /* Canon In D.mp3 */,
+				491BA2721D18911E00893553 /* Power.mp3 */,
+				491BA2731D18911E00893553 /* Symphony Of Destruction.mp3 */,
+				491BA2741D18911E00893553 /* Everybody Wants to Rule the World.mp3 */,
+				491BA27A1D18911E00893553 /* Working For The Weekend.mp3 */,
+				491BA2751D18911E00893553 /* Symphony Of Destruction Cover.jpg */,
+				491BA2761D18911E00893553 /* Working For The Weekend Cover.jpg */,
+				491BA2771D18911E00893553 /* Canon In D Cover.jpg */,
+				491BA2781D18911E00893553 /* Power Cover.jpg */,
+				491BA2791D18911E00893553 /* Everybody Wants to Rule the World Cover.jpg */,
 			);
 			path = ReproductorMusical;
 			sourceTree = "<group>";
@@ -122,9 +185,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				491BA27C1D18911E00893553 /* Power.mp3 in Resources */,
+				49172B871D19D57700E154CE /* What I Got Cover.jpg in Resources */,
+				49172B841D19D57700E154CE /* Strangers In The Night.mp3 in Resources */,
+				491BA27F1D18911E00893553 /* Symphony Of Destruction Cover.jpg in Resources */,
+				49172B831D19D57700E154CE /* Strangers In The Night Cover.jpg in Resources */,
+				491BA2831D18911E00893553 /* Everybody Wants to Rule the World Cover.jpg in Resources */,
+				49172B8B1D19D7D400E154CE /* Highway to the Danger Zone Cover.jpg in Resources */,
+				491BA2841D18911E00893553 /* Working For The Weekend.mp3 in Resources */,
+				49172B881D19D57700E154CE /* What I Got.mp3 in Resources */,
+				491BA2821D18911E00893553 /* Power Cover.jpg in Resources */,
+				491BA2811D18911E00893553 /* Canon In D Cover.jpg in Resources */,
+				491BA2801D18911E00893553 /* Working For The Weekend Cover.jpg in Resources */,
 				491BA2681D188FD000893553 /* LaunchScreen.storyboard in Resources */,
+				491BA27D1D18911E00893553 /* Symphony Of Destruction.mp3 in Resources */,
+				49172B821D19D57700E154CE /* Mr.Roboto.mp3 in Resources */,
+				49172B811D19D57700E154CE /* Mr.Roboto Cover.jpg in Resources */,
 				491BA2651D188FD000893553 /* Assets.xcassets in Resources */,
+				49172B861D19D57700E154CE /* Suicide Mission.mp3 in Resources */,
+				491BA27E1D18911E00893553 /* Everybody Wants to Rule the World.mp3 in Resources */,
+				49172B851D19D57700E154CE /* Suicide Mission Cover.jpg in Resources */,
+				491BA27B1D18911E00893553 /* Canon In D.mp3 in Resources */,
 				491BA2631D188FD000893553 /* Main.storyboard in Resources */,
+				49172B8C1D19D7D400E154CE /* Highway to the Danger Zone.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +218,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				491BA2601D188FD000893553 /* ViewController.swift in Sources */,
+				49172B781D18A6CB00E154CE /* Reproductor.swift in Sources */,
 				491BA25E1D188FD000893553 /* AppDelegate.swift in Sources */,
+				491BA2701D1890C900893553 /* ListaCanciones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +370,7 @@
 				491BA26E1D188FD000893553 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
